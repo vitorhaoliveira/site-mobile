@@ -282,3 +282,45 @@
       width: 250px;
    }
 }
+
+@media screen and (max-width: 400px) {
+   .header-bt {
+      font-size: 12px;
+   }
+
+   .header-bts {
+      gap: 15px;
+   }
+
+   .section1 h4 {
+      font-size: 25px;
+   }
+
+   .section1 {
+      gap: 20px;
+   }
+
+   .section2 {
+      height: 85vh;
+   }
+
+   .section3 {
+      height: 85vh;
+   }
+
+   .section4 {
+      height: 85vh;
+   }
+
+   .section2-conteudo h4 {
+      font-size: 30px;
+   }
+
+   .section3-conteudo h4 {
+      font-size: 30px;
+   }
+
+   .section4-conteudo h4 {
+      font-size: 30px;
+   }
+}
